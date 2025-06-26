@@ -1,0 +1,16 @@
+D:\C#\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.deps.json
+D:\C#\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.dll
+D:\C#\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\DataAccessObjects.pdb
+D:\C#\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.dll
+D:\C#\ProductManagementDemo\DataAccessObjects\bin\Debug\net9.0\BusinessObjects.pdb
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.AssemblyInfo.cs
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.sourcelink.json
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAcce.79975846.Up2Date
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.dll
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\refint\DataAccessObjects.dll
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\DataAccessObjects.pdb
+D:\C#\ProductManagementDemo\DataAccessObjects\obj\Debug\net9.0\ref\DataAccessObjects.dll

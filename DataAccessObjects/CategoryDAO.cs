@@ -16,6 +16,7 @@ namespace DataAccessLayer
             Category produce = new Category(7, "Produce");
             Category seafood = new Category(8, "Seafood");
 
+
             var listCategories = new List<Category>();
             try
             {

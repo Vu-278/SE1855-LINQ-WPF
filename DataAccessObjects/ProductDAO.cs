@@ -16,14 +16,6 @@ namespace DataAccessLayer
             Product aniseed = new Product(3, "Aniseed Syrup", 2, 23, 10);
             listProducts = new List<Product> { chai, chang, aniseed };
 
-            //Product chef = new Product(4, "Chef Anton's Cajun Seasoning", 2, 34, 22);
-            //Product chefMix = new Product(5, "Chef Anton's Gumbo Mix", 2, 45, 34);
-            //Product grandma = new Product(6, "Grandma's Boysenberry Spread", 2, 21, 25);
-            //Product uncle = new Product(7, "Uncle Bob's Organic Dried Pears", 7, 22, 30);
-            //Product northwoods = new Product(8, "Northwoods Cranberry Sauce", 2, 10, 40);
-            //Product nishi = new Product(9, "Mishi Kobe Niku", 6, 12, 97);
-            //Product ikura = new Product(10, "Ikura", 8, 13, 32);
-            //listProducts = new List<Product> { chai, chang, aniseed, chef, chefMix, grandma, uncle, northwoods, nishi, ikura };
         }
 
         public List<Product> GetProducts()
